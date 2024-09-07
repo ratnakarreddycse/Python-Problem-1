@@ -1,0 +1,4 @@
+FirstName:10
+LastName:5
+Address:20
+Age:3
